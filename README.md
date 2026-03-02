@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-CC0000?style=flat-square-border&logo=Instagram&logoColor=white&link=https://www.instagram.com/fellypefn/)](https://www.instagram.com/fellypefn/) 
 [![fellypemnascimento@gmail.com Bagde](https://img.shields.io/badge/Gmail-D14836?style=flat-square-border&logo=gmail&logoColor=white)](mailto:fellypemnascimento@gmail.com)
 
-### Estou no caminho para me tornar um desenvolvedor Full Stack, fascinado pela programação e tudo que ele pode proporcionar.
+### Estou no caminho para me tornar um desenvolvedor Full Stack, fascinado pela programação e tudo que ela pode proporcionar.
 
 - 🏅Cursando Desenvolvimento Web Full Stack (ProgramadorBr)
 - 🏅Python - 3 (Curso em Vídeo)
